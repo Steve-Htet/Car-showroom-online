@@ -1,0 +1,266 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@500&display=swap');
+
+body{
+	margin: 0;
+	font-family: 'Rajdhani', sans-serif;
+}
+
+img{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 30px;
+
+}
+
+.topset {
+	text-align: right;
+	position: absolute;
+	margin-top: -50px;
+	margin-left: 700px;
+	color: #0c121c;
+}
+
+.topset a{
+	text-decoration: none;
+	color: #0c121c;
+	margin: 30px;
+	cursor: pointer;
+}
+
+video{
+	position: relative;
+	width: 1366px;
+	height: 768px;
+}
+
+.vdo{
+	position: relative;
+}
+
+.invdo{
+	width: 400px;
+	height: 300px;
+	background-color: #f8f9f9;
+	position: absolute;
+	margin-top: -550px;
+	margin-left: 50px;
+	color: #0c121c;
+	text-align: justify;
+	opacity: 0.9;
+}
+
+h1,.s1,button,p{
+	margin-left: 30px;
+	margin-bottom: 30px;
+
+}
+
+.invdo small{
+	font-family: 'Rajdhani', sans-serif;
+	font-size: 15px;
+	margin-top: -30px;
+	display: block;
+}
+
+.invdo button{
+	font-family: 'Rajdhani', sans-serif;
+	width: 180px;
+	height: 40px;
+	color: white;
+	border-style: none;
+	background-color: #0c121c;
+	margin-top: -35px;
+	position: absolute;
+	cursor: pointer;
+}
+
+.invdo p{
+	background-color: rgba(15,16,35,0.1);
+	width: 400px;
+	height: 130px;
+	margin-left: 0;
+	margin-bottom: -50px;
+}
+
+.invdo p small{
+	display: inline-block;
+	text-align: justify;
+	margin-left: 25px;
+	margin-top: 20px;
+	font-size: 13px;
+	font-family: 'Rajdhani', sans-serif;
+
+}
+
+.invdo h1{
+	font-family: 'Rajdhani', sans-serif;
+	font-size: 40px;
+	line-height: 40px;
+	letter-spacing: 2px;
+	margin-top: 10px;
+}
+
+.midset h2{
+	text-align: center;
+	font-family: 'Rajdhani', sans-serif;
+	color: #0c121c;
+}
+.midset small{
+	display: block;
+	text-align: center;
+	font-family: 'Rajdhani', sans-serif;
+	color: #0c121c;
+}
+
+.show{
+	position: relative;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+
+.pic2{
+	position: absolute;
+	margin-left: 10px;
+}
+
+.pic3{
+	position: relative;
+	margin-left: 10px;
+
+}
+
+.dfc{
+	font-family: 'Rajdhani', sans-serif;
+	display: block;
+	color: white;
+	position: absolute;
+	margin-top: -50px;
+	margin-left: 280px;
+	font-size: 25px;
+}
+
+.tc{
+	font-family: 'Rajdhani', sans-serif;
+	color: white;
+	font-size: 25px;
+	display: block;
+	position: absolute;
+	margin-top: -280px;
+	margin-left: 900px;
+
+
+}
+
+.eyw{
+	font-family: 'Rajdhani', sans-serif;
+	color: white;
+	font-size: 25px;
+	display: block;
+	position: absolute;
+	margin-top: -50px;
+	margin-left: 950px;
+}
+
+.picbox{
+	display: flex;
+	margin-left: 35px;
+}
+
+.pic4,.pic5,.pic6,.pic7{
+	margin: 5px;
+
+}
+
+.landhis{
+	width: 1290px;
+	height: 350px;
+	background-image: url('../img/landbg.jpg');
+	background-repeat: no-repeat;
+	background-size: 1290px 350px;
+	margin-left: 40px;
+}
+
+.landp1{
+	font-family: "Time New Roma";
+	word-spacing: 5px;
+	display: inline-block;
+	color: white;
+	text-align: center;
+	font-size: 30px;
+	margin-top: 60px;
+	margin-left: 400px;
+
+}
+
+.landp2{
+	text-align: center;
+}
+
+.ctnpic{
+	display: flex;
+	width: 100%;
+	height: 100%;
+}
+
+.ctnlt{
+	display: flex;
+	width: 100%;
+	height: 100%;
+}
+
+.ctnlt h3{
+	text-align: justify;
+	margin-left: 30px;
+}
+
+.ctnlt .adv{
+	margin-left: 50px;
+}
+
+.ctnlt .cp{
+	margin-left: 50px;
+}
+
+.ctnlt .ub{
+	margin-left: 50px;
+}
+
+.ctnlt a{
+	margin-left: 30px;
+	text-decoration: none;
+	color: black;
+}
+
+.end{
+	width: auto;
+	height: 50px;
+	color: white;
+	background-color: #0c121c;
+	margin-top: 20px;
+}
+
+.end p{
+	display: inline-block;
+	margin-left: 500px;
+}
+
+
+.topset a:hover{
+	background-color: #0c121c;
+    color: white;
+    padding: 30px;
+    transition: 0.5s;
+
+}
+
+.invdo button:hover{
+	color: #0c121c;
+	background-color: white;
+	border-style: solid;
+	transition: 0.3s;
+}
+
+.ctnlt a:hover{
+	padding: 10px;
+}
+
